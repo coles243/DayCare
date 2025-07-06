@@ -566,7 +566,7 @@ textarea {
 #imageholder{
   width: 100%;
   min-height: 70vh;
-  background-image: url("./static/intro_image.jpg");
+  background-image: url("intro_image.jpg");
   background-position:  60% 65%;
   background-repeat: no-repeat;
 }
